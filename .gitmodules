@@ -1,3 +1,6 @@
 [submodule "mod/attendance"]
 	path = mod/attendance
 	url = git@github.com:danmarsden/moodle-mod_attendance.git
+[submodule "filter/filtercodes"]
+	path = filter/filtercodes
+	url = git@github.com:michael-milette/moodle-filter_filtercodes.git
