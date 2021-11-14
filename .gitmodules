@@ -1,0 +1,3 @@
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = git@github.com:danmarsden/moodle-mod_attendance.git
